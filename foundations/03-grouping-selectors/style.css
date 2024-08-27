@@ -1,0 +1,14 @@
+.yellow-but, 
+.black-but {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.yellow-but {
+    background-color: yellow;
+}
+
+.black-but {
+    background-color: black;
+    color: white;
+}
